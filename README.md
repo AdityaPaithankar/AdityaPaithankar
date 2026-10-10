@@ -56,9 +56,6 @@ I'm a Computer Science engineering student focused on **Data Science, Machine Le
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
@@ -85,22 +82,8 @@ A regression project that estimates property prices using machine learning algor
 
 **Tech / concepts:** Python · Pandas · NumPy · scikit-learn · Regression · Streamlit
 
-### 5. 💸 SmartPocket — Personal Finance Assistant
-A fintech application concept for organizing transactions into spending categories such as food, travel, bills, and savings, with plans for AI-generated insights based on categorized financial data.
 
-**Tech / concepts:** Data categorization · Fintech · AI assistant · Financial insights
 
-### 6. 🚌 College Bus Tracking System
-A college transport solution concept built around GPS-based bus locations, estimated arrival times, and map-based tracking to help students monitor their buses.
-
-**Tech / concepts:** GPS · Maps · Location tracking · ETA updates
-
-### 7. 🧾 TripSplit — Group Expense Manager
-A group-expense management application for recording shared trip expenses and calculating settlements between participants. The backend work includes API development and database integration.
-
-**Tech / concepts:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Redis · Docker
-
-> Project descriptions summarize the intended functionality and technologies. Visit the individual repositories for implementation details, current status, and available demos.
 
 ## 🔬 What I’m Learning
 
@@ -114,22 +97,13 @@ A group-expense management application for recording shared trip expenses and ca
 
 ## 🏅 Certifications & Highlights
 
-- **NPTEL / SWAYAM:** Python for Data Science — Elite Certification
+
 - **IBM:** Machine Learning with Python
 - **IBM:** Generative AI
-- **IIT Indore:** Incubate Certificate
-- **Malakhamb:** Champion
 
-## 📊 GitHub Statistics
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-sigma&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sigma&layout=compact&hide_border=true" alt="Most-used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=aditya-sigma&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
 
 ## 🎯 Career Interests
 
