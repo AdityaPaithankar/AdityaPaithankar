@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # 👋 Hey, I'm Aditya Paithankar
 
