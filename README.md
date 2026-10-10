@@ -4,16 +4,16 @@ readme = r'''<div align="center">
 
 # 👋 Hey, I'm Aditya Paithankar
 
-### Data Science • Machine Learning • Deep Learning • AI
+### Data Science | Machine Learning | Deep Learning | Computer Vision
 
 *Turning data into insights and building practical AI solutions.*
 
 <p>
-  <a href="https://github.com/AdityaPaithankar">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  <a href="https://github.com/aditya-sigma">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/adityapaithankar0316/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -23,25 +23,27 @@ readme = r'''<div align="center">
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science engineering student focused on **Data Science and Machine Learning**.
-- 🔍 Interested in extracting insights from data and developing useful ML/DL applications.
-- 🧠 Learning and building with **machine learning, neural networks, computer vision, and Generative AI**.
-- 🛠️ Enjoy working across the project lifecycle: data preparation, model development, evaluation, APIs, and deployment.
-- 🤝 Open to collaborating on meaningful data science and AI projects.
+I'm a Computer Science engineering student focused on **Data Science, Machine Learning, Deep Learning, and AI application development**. I enjoy turning raw data into useful insights and building end-to-end projects that combine data preparation, model development, evaluation, and user-friendly interfaces.
 
-## 🧰 Tech Stack
+- 🔍 Interested in data analysis, predictive modeling, and computer vision.
+- 🧠 Exploring neural networks, Generative AI, LLM applications, and RAG.
+- 🛠️ Building with Python, SQL, scikit-learn, TensorFlow/Keras, and Streamlit.
+- 🚀 Improving my skills through hands-on projects and continuous learning.
+- 🤝 Open to collaborating on practical Data Science and AI projects.
 
-### Languages & Data Analysis
+## 🧰 Technical Skills
+
+### Programming & Data Analysis
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
 </p>
 
-### Machine Learning & Deep Learning
+### Machine Learning, Deep Learning & Computer Vision
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -50,11 +52,12 @@ readme = r'''<div align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
-### Apps, APIs & Tools
+### Development & Tools
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
@@ -62,40 +65,52 @@ readme = r'''<div align="center">
 
 ## 🚀 Featured Projects
 
-### 🏠 House Price Prediction
-A machine learning application that estimates house prices using regression models and presents predictions through an interactive Streamlit interface.
+### 1. 💇 Long Hair Identification
+A computer vision project designed to classify hair length from images using an image-classification model. The project explores dataset preparation, CNN training, prediction, and a user-friendly interface.
 
-**Focus:** Data preprocessing · Regression · Model evaluation · Streamlit
+**Tech / concepts:** Python · TensorFlow/Keras · CNN · Image preprocessing · Streamlit
 
-### 👤 Gender & Age Detection
-A computer vision project exploring face detection and multi-output deep learning to estimate age and predict gender from images or webcam input.
+### 2. 🏦 Loan Approval Prediction System
+A machine learning project that predicts loan approval outcomes from applicant attributes. The workflow focuses on preparing input features, applying a trained classification pipeline, and presenting predictions through an application interface.
 
-**Focus:** CNNs · TensorFlow/Keras · OpenCV · Model inference
+**Tech / concepts:** Python · Pandas · scikit-learn · Classification · Model pipelines · Streamlit
 
-### 💸 SmartPocket — Personal Finance Assistant
-A fintech concept for organizing transactions into spending pockets, with the goal of adding AI-powered insights based on categorized financial data.
+### 3. 👤 Gender & Age Detection
+A computer vision application that uses face detection and a multi-output deep learning model to estimate age and predict gender from image or webcam input.
 
-**Focus:** Fintech · Data categorization · AI-assisted financial insights
+**Tech / concepts:** Python · TensorFlow/Keras · OpenCV · CNN · Webcam inference
 
-### 🚌 College Bus Tracking System
-A college transport solution designed around GPS-based bus location, estimated arrival times, and map-based tracking.
+### 4. 🏠 House Price Prediction
+A regression project that estimates property prices using machine learning algorithms. It explores feature preparation, model comparison, and evaluation of regression performance.
 
-**Focus:** GPS · Maps · Real-time tracking
+**Tech / concepts:** Python · Pandas · NumPy · scikit-learn · Regression · Streamlit
 
-### 🧾 TripSplit
-A group-expense management application focused on recording shared expenses and calculating settlements between trip members.
+### 5. 💸 SmartPocket — Personal Finance Assistant
+A fintech application concept for organizing transactions into spending categories such as food, travel, bills, and savings, with plans for AI-generated insights based on categorized financial data.
 
-**Focus:** FastAPI · PostgreSQL · SQLAlchemy · Redis · Docker
+**Tech / concepts:** Data categorization · Fintech · AI assistant · Financial insights
 
-> Explore my repositories for source code, implementation details, and project updates.
+### 6. 🚌 College Bus Tracking System
+A college transport solution concept built around GPS-based bus locations, estimated arrival times, and map-based tracking to help students monitor their buses.
 
-## 📚 Currently Learning
+**Tech / concepts:** GPS · Maps · Location tracking · ETA updates
 
-- Exploratory Data Analysis (EDA) and feature engineering
-- Model evaluation, validation, and practical ML workflows
-- CNNs and computer vision with OpenCV
-- Transformers, LLM applications, and Retrieval-Augmented Generation (RAG)
-- Building and deploying ML applications with APIs and Docker
+### 7. 🧾 TripSplit — Group Expense Manager
+A group-expense management application for recording shared trip expenses and calculating settlements between participants. The backend work includes API development and database integration.
+
+**Tech / concepts:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Redis · Docker
+
+> Project descriptions summarize the intended functionality and technologies. Visit the individual repositories for implementation details, current status, and available demos.
+
+## 🔬 What I’m Learning
+
+- Exploratory Data Analysis (EDA) and data visualization
+- Data cleaning, feature engineering, and preprocessing
+- Supervised learning, model validation, and evaluation metrics
+- Neural networks, CNNs, and computer vision with OpenCV
+- Transformers, Large Language Models (LLMs), and prompt engineering
+- Retrieval-Augmented Generation (RAG) and vector search
+- Deploying Python and ML applications using APIs and Docker
 
 ## 🏅 Certifications & Highlights
 
@@ -103,24 +118,38 @@ A group-expense management application focused on recording shared expenses and 
 - **IBM:** Machine Learning with Python
 - **IBM:** Generative AI
 - **IIT Indore:** Incubate Certificate
+- **Malakhamb:** Champion
 
-## 📊 GitHub Overview
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaPaithankar&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPaithankar&layout=compact&hide_border=true" alt="Most-used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-sigma&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sigma&layout=compact&hide_border=true" alt="Most-used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=AdityaPaithankar&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=aditya-sigma&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-## 🤝 Let's Connect
+## 🎯 Career Interests
 
-I'm interested in connecting with people working on **Data Science, Machine Learning, Deep Learning, and AI engineering**.
+I'm interested in opportunities and collaborations related to:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/adityapaithankar0316/)
-- 🧑‍💻 [GitHub Repositories](https://github.com/AdityaPaithankar?tab=repositories)
+- Data Science and Data Analysis
+- Machine Learning and Deep Learning
+- Computer Vision
+- AI and Generative AI applications
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/aditya-sigma">
+    <img src="https://img.shields.io/badge/GitHub-aditya--sigma-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adityapaithankar0316/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Paithankar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
+  </a>
+</p>
 
 ---
 
@@ -132,4 +161,4 @@ I'm interested in connecting with people working on **Data Science, Machine Lear
 '''
 path = Path("/mnt/data/README.md")
 path.write_text(readme, encoding="utf-8")
-print(f"Created {path} ({len(readme.splitlines())} lines)")
+print(f"Created complete README at {path} ({len(readme.splitlines())} lines).")
