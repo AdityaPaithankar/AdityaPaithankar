@@ -117,7 +117,7 @@ I'm interested in opportunities and collaborations related to:
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/aditya-sigma">
+  <a href="https://github.com/AdityaPaithankar">
     <img src="https://img.shields.io/badge/GitHub-aditya--sigma-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
   </a>
   <a href="https://www.linkedin.com/in/adityapaithankar0316/">
