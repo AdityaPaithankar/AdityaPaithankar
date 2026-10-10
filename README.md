@@ -9,7 +9,7 @@ readme = r'''<div align="center">
 *Turning data into insights and building practical AI solutions.*
 
 <p>
-  <a href="https://github.com/aditya-sigma">
+  <a href="https://github.com/AdityaPaithankar">
     <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/adityapaithankar0316/">
@@ -118,7 +118,7 @@ I'm interested in opportunities and collaborations related to:
 
 <p>
   <a href="https://github.com/AdityaPaithankar">
-    <img src="https://img.shields.io/badge/GitHub-aditya--sigma-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-AdityaPaithankar?style=for-the-badge&logo=github" alt="GitHub profile"/>
   </a>
   <a href="https://www.linkedin.com/in/adityapaithankar0316/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Paithankar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
