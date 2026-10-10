@@ -132,7 +132,4 @@ I'm interested in opportunities and collaborations related to:
 *“Learn continuously. Build thoughtfully. Improve with every iteration.”*
 
 </div>
-'''
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created complete README at {path} ({len(readme.splitlines())} lines).")
+
